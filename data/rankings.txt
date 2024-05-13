@@ -1,0 +1,13 @@
+Username -- Game ID -- Points -- Wins
+andal   --   76199   --   15   --   3
+andal   --   7d14e   --   1   --   0
+qwer   --   0acd8   --   2   --   0
+qwer   --   51ad3   --   11   --   2
+qwer   --   a9439   --   2   --   0
+qwer   --   3b09d   --   23   --   4
+qwer   --   2c505   --   15   --   3
+qwer   --   6b107   --   0   --   0
+qwer   --   658d8   --   1   --   0
+qwer   --   610dd   --   1   --   0
+qwer   --   25607   --   16   --   3
+qwer   --   662b2   --   1   --   0
